@@ -3,6 +3,10 @@
 
 ## Heorku Deployment
 
+[Heroku deployment link](https://afternoon-scrubland-20418.herokuapp.com/)
+
+![Application image](./client/src/images/JATE.png)
+
 ## License 
 ![Badge](https://img.shields.io/badge/license-MIT-blue)
 
